@@ -2,7 +2,7 @@
   "name": "miraplay_test_client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/DariSh92/miraplay_test_client",
+  "homepage": "https://DariSh92.github.io/miraplay_test_client",
   "dependencies": {
     "@emotion/styled": "^11.11.0",
     "@reduxjs/toolkit": "^1.9.7",
