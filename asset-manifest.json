@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/miraplay_test_client/static/css/main.2181be0a.css",
+    "main.js": "/miraplay_test_client/static/js/main.cb400fbd.js",
+    "static/js/748.0d5fae17.chunk.js": "/miraplay_test_client/static/js/748.0d5fae17.chunk.js",
+    "static/js/413.49762f8c.chunk.js": "/miraplay_test_client/static/js/413.49762f8c.chunk.js",
+    "static/js/309.201ecad1.chunk.js": "/miraplay_test_client/static/js/309.201ecad1.chunk.js",
+    "static/js/875.d8f1fdd8.chunk.js": "/miraplay_test_client/static/js/875.d8f1fdd8.chunk.js",
+    "static/js/716.d7ea77e1.chunk.js": "/miraplay_test_client/static/js/716.d7ea77e1.chunk.js",
+    "static/media/background.jpg": "/miraplay_test_client/static/media/background.cf3ba285029a1df5678a.jpg",
+    "index.html": "/miraplay_test_client/index.html",
+    "main.2181be0a.css.map": "/miraplay_test_client/static/css/main.2181be0a.css.map",
+    "main.cb400fbd.js.map": "/miraplay_test_client/static/js/main.cb400fbd.js.map",
+    "748.0d5fae17.chunk.js.map": "/miraplay_test_client/static/js/748.0d5fae17.chunk.js.map",
+    "413.49762f8c.chunk.js.map": "/miraplay_test_client/static/js/413.49762f8c.chunk.js.map",
+    "309.201ecad1.chunk.js.map": "/miraplay_test_client/static/js/309.201ecad1.chunk.js.map",
+    "875.d8f1fdd8.chunk.js.map": "/miraplay_test_client/static/js/875.d8f1fdd8.chunk.js.map",
+    "716.d7ea77e1.chunk.js.map": "/miraplay_test_client/static/js/716.d7ea77e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2181be0a.css",
+    "static/js/main.cb400fbd.js"
+  ]
+}
